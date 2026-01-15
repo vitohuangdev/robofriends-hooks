@@ -13,8 +13,8 @@ A small React app built with [Vite](https://vitejs.dev/). Search, filter, and pl
 ## ⚙️ Installation
 
 ```
-git clone https://github.com/vitohuangdev/robofriends.git
-cd robofriends
+git clone https://github.com/vitohuangdev/robofriends-hooks.git
+cd robofriends-hooks
 npm install
 ```
 
@@ -31,7 +31,7 @@ Open [http://localhost:5173](http://localhost:5173).
 ## 🧱 Project Structure
 
 ```
-robofriends/
+robofriends-hooks/
 ├── public/          # Static assets
 ├── src/
 │   ├── assets/      # Images, icons, and static files
