@@ -1,4 +1,4 @@
-# robofriends
+# Robofriends Hooks
 
 A small React app built with [Vite](https://vitejs.dev/). Search, filter, and play around with randomly generated robofriends.
 
